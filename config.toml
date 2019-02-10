@@ -14,9 +14,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About the Session"
     url = "/about/"
-[[menu.main]]
-    name = "Abstracts"
-    url = "/tags/abstracts/"
 
 [sitemap]
   changefreq = "monthly"
