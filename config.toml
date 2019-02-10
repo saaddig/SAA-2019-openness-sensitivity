@@ -12,7 +12,7 @@ enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
-    name = "About"
+    name = "About the Session"
     url = "/about/"
 [[menu.main]]
     name = "Abstracts"
@@ -28,12 +28,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   favicon = ""
-  description = "Electronic Symposium at the Society for American Archaeology, 2019."
+  description = "Electronic Symposium at SAA 2019."
   facebook = ""
   twitter = "https://twitter.com/SAA_DDIG"
   instagram = ""
   youtube = ""
-  github = "https://github.com/saaddig/SAA2019-openness-sensitivity"
+  github = "https://github.com/saaddig/SAA-2019-openness-sensitivity"
   gitlab = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
