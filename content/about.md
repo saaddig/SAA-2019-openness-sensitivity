@@ -30,9 +30,9 @@ While formal, in-person discussion and presentation is limited to registered par
 
 Session details
 
-#### Sunday, April 14 8:00 AM, MDT UTC-6h
-
-Full schedule coming soon.  
+#### Sunday, April 14 8:00 AM - 10:00 AM, MDT UTC-6h
+[s385](https://www.saa.org/annual-meeting/programs/final-program)
+Room: 110 Galisteo, Albuquerque Conference Center
 
 
 ##### Banner Image Credit: Cecilia Smith, from ["Ethics and Best Practices for Mapping Archaeological Sites"](https://aejolene.github.io/SAA2018digigovt/mapping-smith.html) in *Futures and Challenges in Government Digital Archaeology*, SAA 2019, Washington, D.C.  
