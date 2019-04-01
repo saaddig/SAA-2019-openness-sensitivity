@@ -272,7 +272,7 @@ that continues in southern Arizona today.
 Analysts in the southern Southwest tend to separate historical from
 prehistoric automatically. The data came from legacy reports
 which analyzed and reported prehistoric and historic components
-separately, often in different chapters. For the full list of sites and authors' work used in this study please check out ([Chapter 5 of my dissertation.]https://repository.arizona.edu/handle/10150/631374) Thus the prehistoric/historic
+separately, often in different chapters. For the full list of sites and authors' work used in this study please check out [Chapter 5 of my dissertation.](https://repository.arizona.edu/handle/10150/631374) Thus the prehistoric/historic
 division is consistently maintained over generations of researchers. It
 is reified every time a report is published. **To put the data together
 in this way was the opposite of how these legacy data were originally
