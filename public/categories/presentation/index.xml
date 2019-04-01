@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation on Openness &amp; Sensitivity: Practical Concerns In Taking Archaeological Data Online</title>
+    <link>/categories/presentation/</link>
+    <description>Recent content in Presentation on Openness &amp; Sensitivity: Practical Concerns In Taking Archaeological Data Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Negotiating Complexity in the Management of Sensitive Digital Data</title>
+      <link>/complexity-gadsby/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/complexity-gadsby/</guid>
+      <description>David Gadsby
+National Park Service
+Appropriate stewardship of sensitive archeological data necessarily involves overlapping and intertwined authorities, systems, and institutions. The authorities, in turn have different limits and requirements, while various entities have divergent purposes, needs, and protocols. Archeologists, librarians, data managers, planners, and resource managers who work with sensitive data require a thorough understanding of the nature of both the physical and digital resources and the contexts in which they are embedded.</description>
+    </item>
+    
+  </channel>
+</rss>
