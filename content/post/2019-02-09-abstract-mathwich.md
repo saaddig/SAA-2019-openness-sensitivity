@@ -270,9 +270,9 @@ that continues in southern Arizona today.
 ![. “You just put two time periods together.” The historical data came from legacy reports which analyzed and reported prehistoric and historic components separately, often in different chapters. Analysts in the southern Southwest tend to do this automatically, and thus the division is consistently maintained over generations of researchers.](/post/2019-02-09-abstract-mathwich_files/Slide14.JPG)
 
 Analysts in the southern Southwest tend to separate historical from
-prehistoric automatically. The historical data came from legacy reports
+prehistoric automatically. The data came from legacy reports
 which analyzed and reported prehistoric and historic components
-separately, often in different chapters. Thus the prehistoric/historic
+separately, often in different chapters. For the full list of sites and authors' work used in this study please check out ([Chapter 5 of my dissertation.]https://repository.arizona.edu/handle/10150/631374) Thus the prehistoric/historic
 division is consistently maintained over generations of researchers. It
 is reified every time a report is published. **To put the data together
 in this way was the opposite of how these legacy data were originally
@@ -284,7 +284,7 @@ perspectives of their time in the Santa Cruz River Valley.**
 Recent efforts to revitalize the use of native Sonoran foods focused
 primarily on plants, not native animals ([Native Seed
 Search](https://www.nativeseeds.org/pages/seed-bank), [San Xavier Co-op
-Farm](http://www.sanxaviercoop.org/home.html)). While beef, rabbit,
+Farm](http://www.sanxaviercoop.org/home.html)). Today, beef, rabbit,
 chicken, and deer, are often considered traditional foods in the Tohono
 O’odham Nation (Fazzino 2008). I was curious as to why these efforts to
 revitalized native foods excluded native animals? My research suggests
@@ -305,16 +305,16 @@ those needs, particularly regarding time continuity. Traditional
 archaeological categories, such as time, can uphold settler-colonial
 values far beyond their publication dates to the exclusion of Indigenous
 perspectives. Can legacy data be purged of their biases? No, and nor
-would that be appropriate. However, there needs to be a more active role
+would it be appropriate to alter the data so substantially from its original form. However, there needs to be a more active role
 by researchers and data managers as well as more end-user guidance and
 training of new researchers into how legacy archaeological ontologies
-perpetuate settler-colonial perspectives. This could take a variety of
+perpetuate settler-colonial perspectives. Are we maintaining a prehistoric/historic division when we upload data, and what can we do differently? This could take a variety of
 forms, ranging from reporting requirements to short tutorials required
-by new users before they are allowed to access data. **As digital data
+by new users before they are allowed to access data. As digital data
 managers and researchers, I invite us to think of ways to help legacy
 data incorporate Indigenous ontologies, make them more meaningful to
 non-experts, and use digital data to encourage future researchers of
-complex systems to engage with Indigenous ontologies.**
+complex systems to engage with Indigenous ontologies.
 
 ![How do I, as researcher, maintain data accuracy? How do I ensure what I produce from older data better reflects contemporary archaeological values? How do I help others use data I have gathered or generated critically?](/post/2019-02-09-abstract-mathwich_files/Slide17.JPG)
 
