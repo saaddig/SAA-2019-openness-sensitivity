@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/legacy-mathwich/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/abstract-martin-heitman/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -25,13 +32,6 @@
   
   <url>
     <loc>/abstract-supernant/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/abstract-mathwich/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -95,6 +95,13 @@
   
   <url>
     <loc>/tags/presentations/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/presentations/</loc>
     <lastmod>2019-03-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

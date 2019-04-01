@@ -11,9 +11,8 @@ featured_image: ''
 ---
 
 
-David Gadsby
-
-National Park Service
+### David Gadsby  
+#### National Park Service
 
 Appropriate stewardship of sensitive archeological data necessarily
 involves overlapping and intertwined authorities, systems, and
