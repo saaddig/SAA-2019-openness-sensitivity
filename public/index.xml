@@ -6,10 +6,19 @@
     <description>Recent content on Openness &amp; Sensitivity: Practical Concerns In Taking Archaeological Data Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why We Should Reassess How We Define Sensitive Archaeological Data and How We Share It</title>
+      <link>/reassess-vawser/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/reassess-vawser/</guid>
+      <description>Anne M. Wolley Vawser Midwest Archeological Center National Park Service Think back to your first field school when you learned the basics of archeological investigations, whether it was excavating a roman ruin or conducting pedestrian survey in some western US state. Your professors and TAs were always after you to document, document, document through field notes and forms, and maybe later you were lucky enough to help write up part of the report of your findings.</description>
+    </item>
     
     <item>
       <title>Negotiating Complexity in the Management of Sensitive Digital Data</title>
@@ -64,15 +73,6 @@ Complex systems approaches to archaeological interpretation are well-established
       
       <guid>/abstract-noack-myers/</guid>
       <description>In Cultural Resources Management, many archaeological survey projects are undertaken through contract services provided to regional federal clients with large-scale resource evaluation needs. In the case of military properties, each installation maintains SOPs and curatorial operations to serve the needs of their unique CRM department. While modern military and government security may exist at the forefront of on-the-ground practice at these locations, the historical research and archaeological data related to historic and precolonial communities and individuals that once resided on these properties should be handled with equal sensitivity.</description>
-    </item>
-    
-    <item>
-      <title>Abstract: Why We Should Reassess How We Define Sensitive Archaeological Data and How We Share It</title>
-      <link>/abstract-vawser/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/abstract-vawser/</guid>
-      <description>We all want to be published and want our archeological research to be relevant, useful, and available to other archeologists, but in this digital age, it may be too easy to share, and too easy for sensitive site location information to end up in places that could cause irreparable harm to the archeology that we are so passionate about. We tend to write our reports for an archeological audience, including all kinds of useful information about where we found those wonderful artifacts and unique features.</description>
     </item>
     
     <item>
