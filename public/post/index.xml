@@ -6,10 +6,21 @@
     <description>Recent content in Presentations on Openness &amp; Sensitivity: Practical Concerns In Taking Archaeological Data Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Data, Indigenous Knowledge, and Archaeology: The need for community-driven open data projects</title>
+      <link>/open-data-supernant/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/open-data-supernant/</guid>
+      <description>Dr. Kisha Supernant Department of Anthropology, University of Alberta
+DRAFT: Do not cite in any context without the permission of the author
+Introduction: With the rise of the digital age, new possibilities for expanding the accessibility and long-term sustainability of archaeological data have emerged. A body of literature over the past ten years has contributed to important debates about the role of digitization of, open access to, and community engagement with both digitized and born-digital archaeological data (Beale 2012; Beck and Neylon 2012; Bevan 2012; Costa, et al.</description>
+    </item>
     
     <item>
       <title>Why We Should Reassess How We Define Sensitive Archaeological Data and How We Share It</title>
@@ -55,15 +66,6 @@ Complex systems approaches to archaeological interpretation are well-established
       
       <guid>/abstract-white/</guid>
       <description>Open access archaeology helps make archaeological data available to larger research communities. While this is commendable, much of our work in the United States is generated from research conducted on indigenous, descendant, or non-European American communities, many of which have histories of negative interactions with anthropologists and archaeologists. This paper explores protocols for preventing cultural knowledge from disproportionately benefitting archaeologists and keeping cultural knowledge from being used in ways that do not benefit descendant and indigenous communities.</description>
-    </item>
-    
-    <item>
-      <title>Abstract: Open Data, Indigenous Knowledge, and Archaeology: The need for community-driven open data projects</title>
-      <link>/abstract-supernant/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/abstract-supernant/</guid>
-      <description>Over the past 20 years, much archaeological data has been digitized and made available online. With an increasing call for open data and open science models, driven largely by a desire to make research more accessible and reproduceable, archaeologists are exploring new ways to make these data available without negative impacts to the archaeological record. However, when archaeologists work in Indigenous contexts, there are considerations about how broadly knowledge should be shared, especially when it concerns deceased ancestors.</description>
     </item>
     
     <item>
