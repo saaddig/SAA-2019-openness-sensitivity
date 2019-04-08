@@ -11,8 +11,7 @@ featured_image: ''
 ---
 
 ### Dr. Kisha Supernant
-#### Department of Anthropology, University of
-Alberta
+#### Department of Anthropology, University of Alberta
 
 DRAFT: Do not cite in any context without the permission of the author
 
