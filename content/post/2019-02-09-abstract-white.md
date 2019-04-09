@@ -2,7 +2,7 @@
 title: 'How do we keep “bro-ing” away from open access archaeology?: Open Access, Cultural Appropriation, and Archaeology'
 author: 'William White'
 date: '2019-04-09'
-slug: abstract-white
+slug: bro-ing-white
 categories:
   - Abstracts
 tags: [Abstracts]
