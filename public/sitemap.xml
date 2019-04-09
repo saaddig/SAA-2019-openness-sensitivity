@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/abstract-white/</loc>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/open-data-supernant/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,13 +45,6 @@
   </url>
   
   <url>
-    <loc>/abstract-white/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/abstract-noack-myers/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,28 +60,28 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/abstracts/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/abstracts/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -109,7 +109,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,7 +123,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
