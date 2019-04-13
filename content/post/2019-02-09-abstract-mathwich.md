@@ -14,7 +14,7 @@ featured_image: '/post/2019-02-09-abstract-mathwich_files/Slide9.JPG'
 ### Nicole Mathwich, Ph.D.
 #### Arizona State Museum, University of Arizona, Tuscon, AZ
 
-
+DRAFT: Do not cite in any context without the permission of the author
 **ABSTRACT**
 
 Complex systems approaches to archaeological interpretation are
