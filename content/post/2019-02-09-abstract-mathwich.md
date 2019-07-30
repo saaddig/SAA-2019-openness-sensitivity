@@ -75,16 +75,6 @@ be a tendency to cleave to the original data organization used by the
 analyst. Practical possibilities for reinterpretation of legacy data
 must include re-evaluation of basic levels of organization.
 
-**Alternative ways of keeping time in southern Arizona:**
-
-[Akimel O’odham calendar stick at the Museum of the American
-Indian](https://americanindian.si.edu/static/exhibitions/infinityofnations/southwest/104878.html)
-
-[Tohono O’odham calendar stick on the Nation’s
-website](http://www.tonation-nsn.gov/tohono-oodham-history/)
-
-![Complex systems: Broad, interdisciplinary group of approaches and methods. Non-linear Have dynamic feedback loops. Systemic behavior arising from uncoordinated  interactions. Robustness and lack of central control. Hierarchical organization. Large size](/post/2019-02-09-abstract-mathwich_files/Slide4.JPG)
-
 For this presentation, I’ve chosen to focus on a methodological and
 conceptual approach which is becoming increasingly influential in
 archaeology, but also requires large quantities of digital data. Complex
@@ -99,8 +89,6 @@ long-terms effects of resource use. These models and concepts are tools
 but are ultimately limited by the data used. What a researcher puts in
 affects what they get out.
 
-![What you put in is what you get.  Researcher/end user familiarity with archaeological ethics and theory](/post/2019-02-09-abstract-mathwich_files/Slide5.JPG)
-
 The problem here is that complex systems often require large quantities
 of data and may be used by researchers outside of archaeology with
 limited understanding of the ethical considerations and colonialist
@@ -111,8 +99,6 @@ perspective. The questions I seek to answer are: How do I as researcher
 and educator maintain data accuracy? How do I also ensure what I produce
 and what my students produce from older data better reflects
 contemporary archaeological values?
-
-![Digital data and the pre-historic/historic divide: Do new digital databases reinforce arbitrary temporal boundaries? Will a non-expert be able to understand cultural-complex categories? What might we miss out on by perpetuating these divisions?](/post/2019-02-09-abstract-mathwich_files/Slide6.JPG)
 
 As a case study to illustrate the issues legacy data can create, I
 present a small case study showing the impact legacy categories can have
@@ -172,103 +158,6 @@ compared the use of rabbits and ungulates and overall species diversity
 at 31 archaeological sites in the Santa Cruz River Basin, located in
 southern Arizona.
 
-
-![Timeline of Santa Cruz Valley sites in analysis. Time designations prior to AD 1690 come from ceramic seriation cross-referenced with radiocarbon and dendrochronological methods. After 1690, date ranges were based on artifact styles and written documents about site occupation.](/post/2019-02-09-abstract-mathwich_files/Slide8.JPG)
-
-**Timeline of Santa Cruz Valley sites in analysis.** This case study
-compares taxonomic data from zooarchaeological analysis using the
-Shannon Index (H) and the Artiodactyl Index (AI). The analyzed site
-assemblages span a wide range of periods from AD 500–1912 in the Santa
-Cruz River Valley. The archaeofauna assemblages examined here come from
-the NISP and taxa lists from 31 sites and 46 periods and cultural
-contexts. The study sample was limited to sites within a single drainage
-with shared ecological zones. All of the sites were excavated and sifted
-through ¼” screen mesh. Faunal remains from historical and prehistoric
-contexts are often presented separately and in different chapters, which
-makes their combination here on a continuum more unusual. Time
-designations prior to AD 1690 come from ceramic seriation
-cross-referenced with radiocarbon and dendrochronological methods. After
-1690, date ranges were based on artifact styles and written documents
-about site occupation. I used the calendar date ranges provided by the
-reports, but privileged calendar dates in analysis.
-
-![Plot: Shannon index over time](/post/2019-02-09-abstract-mathwich_files/Slide9.JPG)
-
-**Results:** The H index is more sensitive to the overall shape of the
-distribution, and it is less affected by sample size variation. What is
-interesting here is that when compared together, there is extensive
-overlap in the diversity index values, regardless of assemblage size or
-period. While different species are being used in each period, the H
-values on both sides time divide stay below 1.4, suggesting a general
-dependence on a few species with a mix of other species, which appear
-with less frequency.
-
-![Plot: Artiodactyl Intex over Time](/post/2019-02-09-abstract-mathwich_files/Slide10.JPG)
-
-In eighteenth-century assemblages, there is a major increase in the
-relative abundance of artiodactyls relative to the prehistoric period,
-and this is true at sites where Tohono O’odham are the majority and
-majority Euro-Americans and mestizo sites. Sites dating before AD 1450
-have a higher abundance of lagomorphs with a general upward trend in
-both artiodactyl use and assemblage diversity as measured by the
-Shannon-Weaver Index. AI values in the AD 1700s group tightly near a
-value of 1 and reflect very high proportions of artiodactyls,
-predominately cattle and sheep. AI values cluster tightly after 1700,
-because lagomorphs are virtually absent from assemblages. Faunas after
-1700 are dominated overwhelmingly by Eurasian domesticates.
-
-![State Shift in Basin Faunal Use: Multi-cultural shift in faunal use O’odham mission sites look more like Mexican and Euro-American sites than Hohokam  Overall dependence on a few species does not change. Behavioral consistency? The species used do change, with greater emphasis on domesticates such as cattle, sheep, and chicken.](/post/2019-02-09-abstract-mathwich_files/Slide11.JPG)
-
-While there was cultural variation among Euro-American populations,
-Spanish colonial sites with majority O’odham populations were more
-similar to later Mexican and American Territorial patterns of animal
-use. Early mission sites and subsequent periods have high proportions
-of artiodactyls, all over 0.5. Site occupations older than the early
-mission period do not have AI values higher than 0.5. The H values
-demonstrate that sample size did not affect the diversity, and so the
-changes observed in AI are not based on sample size alone. The
-differences between artiodactyl and lagomorph use prior to and following
-the arrival of Spanish missionaries are stark nonetheless, and suggest
-livestock quickly found a place in O’odham landscape use in the Santa
-Cruz River Valley.
-
-**I argue that the shift toward artiodactyl use in the colonial period,
-represents a systemic state-shift or regime shift, in subsistence.**
-This may be a case where a system was not resilient and collapsed
-(Müller et al. 2014). The shape of the transition reflects that of a
-critical transition, or threshold, which is a tipping point where
-conditions cause a shift in the stability of a complex system. Regime
-shifts in ecological systems can be caused by an external shock or,
-alternatively, a gradual pressure that pushes the system into a critical
-transition (see example from Scheffer et al. 2012). Instead of adapting
-slowly to the introduction of livestock, the O’odham experienced a
-tipping point toward a new regime of human-animal interaction, which
-converged on a new, stable subsistence pattern.
-
-![Okay, so what? “I already knew Indigenous people began eating livestock at colonial sites.”   “You just put two time periods together.”  “Indigenous peoples already know things changed. You’re not really helping.”](/post/2019-02-09-abstract-mathwich_files/Slide12.JPG)
-
-I’m aware this approach may be underwhelming, but sometimes the simple
-things can be most surprising. I was struck by how rare combining data
-from “historic” and “prehistoric” actually was in reports and articles.
-Archaeologists are creatures of our own culture.
-
-![1. “I already knew Indigenous people began eating livestock at colonial sites.”  The rapidity of the shift is surprising. Became a valley-wide, multi-cultural regime shift in resource strategy that continues in southern Arizona today](/post/2019-02-09-abstract-mathwich_files/Slide13.JPG)
-
-Perhaps you already knew that livestock became important at mission
-settlements and native peoples began ranching and herding them.
-Zooarchaeological data in the Pimería Alta suggest the change was quite
-rapid, with a strong emphasis on domesticates to the near exclusion of
-wild animals that were traditionally hunted (Mathwich 2016; Mathwich and
-Pavao-Zuckerman 2018). Similar levels of consumption are not seen in
-other parts of the Spanish borderlands (Curry 2017; Garlinghouse and
-Curry 2009; Gifford-Gonzalez and Sunseri 2007; Sunseri 2017; Jones
-2015). **Through the combination prehistoric and historical reports, I
-could identify this shift to a new regime of human-animal interaction,
-which became a valley-wide, multi-cultural change in resource strategy**
-that continues in southern Arizona today.
-
-![. “You just put two time periods together.” The historical data came from legacy reports which analyzed and reported prehistoric and historic components separately, often in different chapters. Analysts in the southern Southwest tend to do this automatically, and thus the division is consistently maintained over generations of researchers.](/post/2019-02-09-abstract-mathwich_files/Slide14.JPG)
-
 Analysts in the southern Southwest tend to separate historical from
 prehistoric automatically. The data came from legacy reports
 which analyzed and reported prehistoric and historic components
@@ -278,8 +167,6 @@ is reified every time a report is published. **To put the data together
 in this way was the opposite of how these legacy data were originally
 presented, yet it most accurately reflects contemporary O’odham
 perspectives of their time in the Santa Cruz River Valley.**
-
-![3. “Indigenous peoples already know things changed. You’re not really helping.” Recent efforts to revitalize the use of native Sonoran foods focused primarily on plants, not native animals. Beef, rabbit, chicken, and deer, are often considered traditional foods in the Tohono O’odham Nation (Fazzino 2008). Why not native animals?  The stability of this new state and the ethnographic role livestock play in modern Tohono O’odham life suggests this subsistence system is not likely to change readily (nor does it need to).](/post/2019-02-09-abstract-mathwich_files/Slide15.JPG)
 
 Recent efforts to revitalize the use of native Sonoran foods focused
 primarily on plants, not native animals ([Native Seed
@@ -292,8 +179,6 @@ that the stability of this new regime and the subsequent ethnographic
 role livestock play in modern Tohono O’odham life suggest that this
 reliance on livestock is not likely to change readily (nor does it need
 to).
-
-![Bringing legacy data online: These data were already online in various ways, but they weren’t systemically brought together. Nor would they likely be because of the prehistoric/historic divide Increase awareness of the needs and possibilities of complex systems Design online databases toward future research Actively invite and adjust database categories to reflect Indigenous ontologies More meaningful to non-experts Force future researchers from various disciplines to engage in Indigenous ontologies](/post/2019-02-09-abstract-mathwich_files/Slide16.JPG)
 
 This case study illustrates the challenges legacy data present to
 digital data managers and researchers. These data were already online in
@@ -315,8 +200,6 @@ managers and researchers, I invite us to think of ways to help legacy
 data incorporate Indigenous ontologies, make them more meaningful to
 non-experts, and use digital data to encourage future researchers of
 complex systems to engage with Indigenous ontologies.
-
-![How do I, as researcher, maintain data accuracy? How do I ensure what I produce from older data better reflects contemporary archaeological values? How do I help others use data I have gathered or generated critically?](/post/2019-02-09-abstract-mathwich_files/Slide17.JPG)
 
 **References Cited**
 
